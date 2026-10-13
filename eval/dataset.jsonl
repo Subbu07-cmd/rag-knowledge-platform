@@ -1,0 +1,6 @@
+{"question": "How do I roll back a Kubernetes deployment?", "expected": ["rollout", "undo"], "source": "kubernetes-rollbacks.md"}
+{"question": "Where should Terraform state be stored?", "expected": ["s3", "dynamodb"], "source": "terraform-state.md"}
+{"question": "How fast must on-call acknowledge a page?", "expected": ["5", "minutes"], "source": "incident-response.md"}
+{"question": "When is a postmortem required?", "expected": ["sev1", "sev2"], "source": "incident-response.md"}
+{"question": "How do I roll back when Argo CD manages the app?", "expected": ["revert", "git"], "source": "kubernetes-rollbacks.md"}
+{"question": "What is the capital of France?", "expected": ["don't know"], "source": null}
